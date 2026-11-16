@@ -4,6 +4,17 @@ Este repositorio contiene el análisis realizado durante el Sprint 5 de TripleTe
 
 El proyecto integra y procesa datos reales de tráfico vehicular (`tomtom_traffic.csv`, con más de 1,004,000 registros horarios) junto con indicadores socioeconómicos (`oecd_city_economy.csv`), abarcando finalmente **15 ciudades principales de 7 países latinoamericanos** durante el año 2024.
 
+## ▶ Cómo abrir el notebook en Google Colab
+
+Haz clic en el siguiente botón:
+
+(https://github.com/rozoacosta01andres/S5-ladb_mobility_economy_project/blob/2f3f2109e75d79d8209d06638d28b2289b33a43d/S5_ladb_mobility_economy_project.ipynb)
+
+O:
+
+1. Abre el archivo `.ipynb` en GitHub
+2. Haz clic en **Open in Colab**
+
 ## 📂 Contenido del repositorio
 
 - `notebooks/ladb_mobility_economy_analysis.ipynb` S5 ladb_mobility_economy_project.ipynb`
